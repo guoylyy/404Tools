@@ -10,11 +10,21 @@
 * **[Jquery Fileupload](http://blueimp.github.io/jQuery-File-Upload/)** 最全的文件上传前端库
 * **[Messager](http://www.bootcss.com/p/messenger/)** 弹出消息组件
 
-##IDE and plugins
-
 
 #The server-end development tools
 
+###Java & Java Web
+* **[Jfinal](http://www.jfinal.com/)** Java快速开发框架，国人开发，有空去捐助一下
+* **[Spring MVC](http://spring.io/)** 最流行的开发架构，摒弃复杂的SSH，拥抱Sping MVC
+
+###Database
+* **[MongoDB](http://www.mongodb.org/)** 简单开源的nosql数据库，非常好使用和入门
+* **[Sqlite](http://www.sqlite.org/)** 简单的文本数据库
+* **[MYSQL](http://www.mysql.com/)** 最流行的数据库，被orcale收购过后一直感觉怪怪的
+* **[PostgreSQL](http://www.postgresql.org/)** Mysql创始人又搞得一个数据库，看起来还不错
+
+
+#IDE and Plugins
 
 
 
@@ -23,6 +33,9 @@
 #Guide Documents of development
 
 下面这部分来自[https://github.com/justjavac/free-programming-books-zh_CN/blob/master/README.md](https://github.com/justjavac/free-programming-books-zh_CN/blob/master/README.md)
+
+###Algorithm
+* [结构之法，代码之美博客github](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 
 ### JavaScript
 
@@ -39,130 +52,98 @@
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/) (作者：阮一峰)
 * Node.js
     * [Node入门](http://www.nodebeginner.org/index-zh-cn.html)
-    * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
-    * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
-    * [express.js 中文文档](http://expressjs.jser.us/)
-    * [koa 中文文档](https://github.com/turingou/koa-guide)
-* backbone.js
-    * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
-    * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
-    * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
-* AngularJS
-    * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
-    * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
-    * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
-    * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
-* [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) 
-* Sea.js
-    * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
-* CoffeeScript
-    * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
-    * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
-* [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)  
+        * [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+            * [Nodejs Wiki Book](https://github.com/nodejs-tw/nodejs-wiki-book) (繁体中文)
+                * [express.js 中文文档](http://expressjs.jser.us/)
+                    * [koa 中文文档](https://github.com/turingou/koa-guide)
+                    * backbone.js
+                        * [backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
+                            * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
+                                * [Developing Backbone.js Applications(中文版)](http://feliving.github.io/developing-backbone-applications)
+                                * AngularJS
+                                    * [AngularJS最佳实践和风格指南](https://github.com/mgechev/angularjs-style-guide/blob/master/README-zh-cn.md)
+                                        * [AngularJS中译本](https://github.com/peiransun/angularjs-cn)
+                                            * [AngularJS入门教程](https://github.com/zensh/AngularjsTutorial_cn)
+                                                * [构建自己的AngularJS](https://github.com/xufei/Make-Your-Own-AngularJS/blob/master/01.md)
+                                                * [zepto 简明中文手册](http://www.360weboy.com/handbook/zepto/index.html) 
+                                                * Sea.js
+                                                    * [Hello Sea.js](http://island205.github.io/HelloSea.js/)
+                                                    * CoffeeScript
+                                                        * [CoffeeScript Cookbook](http://island205.github.io/coffeescript-cookbook.github.com/)
+                                                            * [The Little Book on CoffeeScript中文版](http://island205.github.io/tlboc/)
+                                                            * [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)  
 
 
-### PHP
+                                                            ### PHP
 
-* [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
-* [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
-* [PHP之道](http://wulijun.github.io/php-the-right-way/)
-* [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
-* [PHP安全最佳实践](http://www.blogkun.com/php/2013/12/21/php-security-best-practices/) 
-* [深入理解PHP内核](https://github.com/reeze/tipi)
-* [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
-* [CodeIgniter 用户指南](http://codeigniter.org.cn/user_guide/index.html)
-* [Laravel4 中文文档](http://www.golaravel.com/docs/)
-* [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
-* [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
-* [YiiBook几本Yii框架的在线教程](http://yiibook.com/)
-
-### iOS
-
-* [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
-* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
-* [Google Objective-C Style Guide 中文版](http://www.iwangke.me/objc-style-guide/)
-
-### Android
-
-* [Android Design(中文版)](http://www.apkbus.com/design/index.html)
-
-### Python
-
-* [简明Python教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
-* [PEP8 Python代码风格规范](https://code.google.com/p/zhong-wiki/wiki/PEP8)
-* [Python入门教程](http://liam0205.me/2013/11/02/Python-tutorial-zh_cn/) ([PDF](http://liam0205.me/attachment/Python/The_Python_Tutorial_zh-cn.pdf))
-* [Python的神奇方法指南](http://article.yeeyan.org/view/311527/287706)
-* [笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readthedocs.org/en/1.0/)
-* [廖雪峰的Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
-* [Django 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/)
-* [Django 最佳实践](https://github.com/brantyoung/zh-django-best-practices)
-* [The Django Book 中文版](http://djangobook.py3k.cn/2.0/)
-* [web.py 0.3 新手指南](http://webpy.org/tutorial3.zh-cn)
-* [Web.py Cookbook 简体中文版](http://webpy.org/cookbook/index.zh-cn)
-* [Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/)
-* [Bottle 文档中文版](http://bottlepy.org/docs/dev-cn/) (此链接已失效)
-* [Flask 文档中文版](http://docs.torriacg.org/docs/flask/)
-* [Introduction to Tornado 中文翻译](http://demo.pythoner.com/itt2zh/index.html)
-
-### Ruby
-
-* [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
-* [Rails 风格指南](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
-* [笨方法學 Ruby](http://lrthw.github.io/)
-* [Ruby on Rails Tutorial 原书第 2 版](http://railstutorial-china.org/) (本书网页版免费提供，电子版以 PDF、EPub 和 Mobi 格式提供购买，仅售 9.9 美元)
-
-### Shell
-
-* [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-
-### Go
-
-* [Go编程基础](https://github.com/Unknwon/go-fundamental-programming)
-* [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-* [学习Go语言](http://mikespook.com/learning-go/) ([PDF](http://xxiyy.qiniudn.com/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80\(Golang\).pdf?download))
-* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang) (此书已经出版，希望开发者们去购买，支持作者的创作)
-* [Go实战开发](https://github.com/astaxie/Go-in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
-* [Network programming with Go 中文翻译版本](https://github.com/astaxie/NPWG_zh)
-
-### Groovy
-
-* [实战 Groovy 系列](http://www.ibm.com/developerworks/cn/java/j-pg/)
-
-### LISP
-
-* [ANSI Common Lisp 中文翻譯版](http://acl.readthedocs.org/en/latest/)
-
-### Haskell
-
-* [Real World Haskell 中文版](http://rwh.readthedocs.org/en/latest/)
-
-### R
-
-* [R语言忍者秘笈](https://github.com/yihui/r-ninja)
-
-### Scala
-
-* [Scala课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
-
-### Perl
-
-* [Modern Perl 中文版](https://github.com/horus/modern_perl_book)
-* [Perl 程序员应该知道的事](http://perl.linuxtoy.org/)
-
-### Prolog
-
-* [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/15/qian-yan/)
-
-### Vimscript
-
-* [笨方法学Vimscript 中译本](http://learnvimscriptthehardway.onefloweroneworld.com/)
-
-### 读书笔记及其它
-
-* [编译原理（紫龙书）中文第2版习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)
-* [把《编程珠玑》读薄](http://hawstein.com/posts/make-thiner-programming-pearls.html)
-* [Effective C++读书笔记](https://github.com/XiaolongJason/ReadingNote/blob/master/Effective%20C%2B%2B/Effective%20C%2B%2B.md)
-* [Golang 学习笔记、Python 学习笔记、C 学习笔记](https://github.com/qyuhen/book) (PDF)
-* [Jsoup 学习笔记](https://github.com/code4craft/jsoup-learning)
-* [学习笔记: Vim、Python、memcached](https://github.com/lzjun567/note)
-* [图灵开放书翻译计划--C++、Python、Java等](http://www.ituring.com.cn/activity/details/2004)
+                                                            * [PHP调试技术手册](http://www.laruence.com/2010/06/21/1608.html)(PDF)
+                                                            * [XDebug 2中文手册(译)](http://www.blogkun.com/project.html) (CHM)
+                                                            * [PHP之道](http://wulijun.github.io/php-the-right-way/)
+                                                            * [PHP 最佳实践](https://github.com/justjavac/PHP-Best-Practices-zh_CN)
+                                                            * [PHP安全最佳实践](http://www.blogkun.com/php/2013/12/21/php-security-best-practices/) 
+                                                            * [深入理解PHP内核](https://github.c手册(译)](http://www.blogkun.com/project.html) (CHM)
+                                                                                      * [PHP之道](http://wulijun.github.io/php-the-right-way/)
+                                                                                     * [PHP 最佳实践user_guide/index.html)
+                                                                                        * [Laravel4 中文文档](http://www.golaravel.com/docs/)
+                                                                                        * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
+                                                                                        * [Phalcon中文文档](http://phalcon.5iunix.net/)（翻译进行中）
+                                                                                        * [YiiBook几本Yii框架的在线教程](http://yiibook.com/)
+                                                                                       
+                                                                                       ### iOS
+                                                                                       
+                                                                                        * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
+                                                                                        * [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
+                                                                                        * [Google Objective-C Style Guide 中文版](http://www.iwangke.me/objc-style-guide/)
+                                                                                       
+                                                                                       ### Android
+                                                                                       
+                                                                                        * [Android Design(中文版)](http://www.apkbus.com/design/index.html)
+                                                                                       
+                                                                                        ### PythonP安全最佳实践](http://www.blogkun.com/php/2013/12/21/phpn_best-practices/) 
+                                                            * [深入理解PHP内核](https://github.c手册(译/p://www.blogkun.com/project.html) (CHM)
+                                                                                      * [PHP之道](http://wulijun.github./P践user_guide/index.html)
+                                                                                      * [Laravel4 中文文档](http://www.golaravel.com/docs/)
+                                                                                     * [Symfony2中文文档](hçvel.com/docs/)
+                                                                                      * [Symfony2中文文档](http://symfony-docs-chs.re笨办法学 Python](https://learn-python-the-hard-way-zh_cn-translation.readt)（翻译进行中）
+                                                                                                               * [YiiBook几本Yii框架的在线教程](http://yiiboiki/001374738125095c955c1e6d8bb493182103fac9270762a000入门](https://github.com/qinjx/30min_guides/blob/master/ios.edocs.org/en/latest/)
+                                                                                                                                                         * [Django 最佳实践](https://github.com/brantyos-ui-design-basics-ios7.html)
+                                                                                                                                                         * [Google Objective-C Style Guide 中文版]ooC Style Guide 中文版](http://www.iwangke.me/o://)
+                                                                                                                                                        
+                                                                                                                                                        ### Android
+                                                                                                                                                        
+                                                                                                                                                         * [Android Design(中文版)](http://www.apk]ign/index.html)
+                                                                                                                                                        
+                                                                                                                                                         ### PythonP安全最佳实践](http://www.blogkun.com(h3/12/21/phpn_best-practices/) 
+                                                                                                                                                                                        * [深入理解PHP内核](https://github.c手ot核](https://github.c手册(译/p://www.blogkun.coas) (CHM)
+                                                                                                                                                                                                                                            * [PHP之道](http://wulijun.github./P践user_guide/itr
+                                                                                                                                                                                                                                                          * [Laravel4 中文文档](http://www.golaravel.com/docs/)
+                                                                                                                                                                                                                                                         * [Symfony2x.档](hçvel.com/docs/)
+                                                                                                                                                                                                                                                          * [Symfony2中文文档](http://symfony-docs-chs.restttp://symfony-docs-chs.re笨办法学 Python](httæ-the-hard-way-zh_cn-translation.readt)（翻译进行中）
+                                                                                                                                                                                                                                                                                   ob几本Yii框架的在线教程](http://yiiboiki/001374738125095c955c1e
+                                                                                                                                                                                                                                                                                                                     *3182103fac9270762a000入门](https://github.com/qinjx/30min_guides/blob/mas(本书网页版免费提供，电子版以 PDF、EPub佳实践](https://github.com/brantyos-ui-design-basics-ios7* [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/w.iwangke.me/o://)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ### Android
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * [Android Design(中文版)](http://www.an/go-fundamental-programming)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      * [Go入门指南](https://github.com/Unknwon/the-w//www.blogkun.com(h3/12/21/phpn_best-practices/) 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         *.cPHP内核](https://github.c手ot核](https://github.c手册(译9%w.blogkun.coas) (CHM)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 * [PHP之道](http://wulijun.github./P践user¨r
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               * [Laravel4 中文文档](http://www.golaravel.com/docs/)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               * [Symfony2x.滏出版，希望开发者们去购买，支持作耖文档](http://symfony-docs-chs.restttp://symfony-docs-chs.in-Action) (当我收录此项目时，作者已经写完第三章，如果读完前面章节觉得有帮助，可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作者的继续创作)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               *ithub.com/qinjx/30min_guides/blob/mas(本书网页版免费提ub­版以 PDF、EPub佳实践](https://github.com/brantyos-ui-design-.ios7* [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides»ècom/qinjx/30min_guides/w.iwangke.me/o://)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ### A Hroid Design(中文版)](http://www.an/go-fundamental-programmis.¥门指南](https://github.com/Unknwon/the-w//www.blogkun.com(h3/12/2uiest-practices/) 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          *.cPHP内核](https://github.c手ot核](https://github.c手zh核](https://github.c手册(译9%w.blogkun.coas) ( P道](http://wulijun.github./P践user¨r
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               * [Laravel4 中文文_p//www.golaravel.com/docs/)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 * [Symfony2x.滏出版，希望开发者ä/)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ### Prolog
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * [笨办法学Prolog](http://fengdidi.github.io/blog/2011/11/1stttp://symfony-docs-chs.in-Action) (当我收录æ作者已经写完第三章，如果读完前面章节觉得æc可以给作者[捐赠](https://me.alipay.com/astaxie)，以鼓励作謬§续创作)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   *ithub.com/qinjx/30min_guides/blob/mas(本书网页版免费提)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * [把《编程珠玑》读薄](http://hawstein.com//github.com/brantyos-ui-design-.ios7* [Shell脚本编程30分éhttps://github.com/qinjx/30min_guides»ècom/qinjx/30min_guides/w.iwanct://)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ### A Hroid Design(中文版)](http://www.an/go-fundamental-programmisç-fundamental-programmis.¥门指南](https://githook) (PDF)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * [Jsoup 学习笔记](https://github.com/code4craft/js/github.c手ot核](https://github.c手zh核](https://github.c手册(èogkun.coas) ( P道](http://wulijun.github./P践user¨r
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              * [Laravel4 中文æ¨r
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                * [Laravel4 中文文_p//www.golaravel.com/]]) ))))))]]) )))))))))))))))))))))))))
