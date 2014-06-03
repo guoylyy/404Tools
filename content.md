@@ -10,6 +10,9 @@
 * **[Jquery Fileupload](http://blueimp.github.io/jQuery-File-Upload/)** 最全的文件上传前端库
 * **[Messager](http://www.bootcss.com/p/messenger/)** 弹出消息组件
 
+###Entertainment
+
+
 
 #The server-end development tools
 
@@ -24,7 +27,11 @@
 * **[PostgreSQL](http://www.postgresql.org/)** Mysql创始人又搞得一个数据库，看起来还不错
 
 
-#IDE and Plugins
+
+###IDE and Plugins
+* **[Postman]** chromapp，测试restful api的工具，非常好用
+* 
+
 
 
 
